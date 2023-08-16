@@ -13,3 +13,7 @@ http://www.sefidian.com/2020/01/13/rcnn-fast-rcnn-and-faster-rcnn-for-object-det
 https://jonathan-hui.medium.com/what-do-we-learn-from-region-based-object-detectors-faster-r-cnn-r-fcn-fpn-7e354377a7c9
 
 https://jonathan-hui.medium.com/what-do-we-learn-from-single-shot-object-detectors-ssd-yolo-fpn-focal-loss-3888677c5f4d
+
+**Understanding Batch Normalization**
+
+https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/
