@@ -14,6 +14,8 @@ https://jonathan-hui.medium.com/what-do-we-learn-from-region-based-object-detect
 
 https://jonathan-hui.medium.com/what-do-we-learn-from-single-shot-object-detectors-ssd-yolo-fpn-focal-loss-3888677c5f4d
 
+Excellent Understanding on YOLO Concept <<https://www.youtube.com/watch?v=zgbPj4lSc58&list=PL1u-h-YIOL0sZJsku-vq7cUGbqDEeDK0a>>
+
 **Understanding Batch Normalization**
 
 https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/
