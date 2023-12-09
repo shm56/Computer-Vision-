@@ -19,3 +19,10 @@ Excellent Understanding on YOLO Concept <<https://www.youtube.com/watch?v=zgbPj4
 **Understanding Batch Normalization**
 
 https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/
+
+**Siamese Networks**
+https://www.kaggle.com/code/arpandhatt/siamese-neural-networks
+
+https://www.kaggle.com/code/kmader/image-similarity-with-siamese-networks
+
+https://www.kaggle.com/code/dmitryleshchinskiy/faceverification-siamese-networks-svm-facenet
